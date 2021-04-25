@@ -1,4 +1,5 @@
 - i like airplanes and coding
+- mainly Python and JavaScript
 - discord: dharmey#0320
 
 <!---
