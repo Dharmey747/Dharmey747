@@ -1,4 +1,4 @@
-- Coding mainly in Python and JavaScript
+- Python / JavaScript / Go
 - Discord: dharmey#0320
 - 19 | Italy
 
